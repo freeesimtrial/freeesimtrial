@@ -1,6 +1,7 @@
 # ✈️ Free eSIM Trial – 1GB Data. No Credit Card.
 
-[Website](https://freeesimtrial.net) | [How it Works](https://freeesimtrial.net) | [Blog](https://freeesimtrial.net/blog)
+[![Website](https://img.shields.io/badge/Website-freeesimtrial.net-1e6f5c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://freeesimtrial.net)
+[![Telegram](https://img.shields.io/badge/Telegram-Join_Us-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/freeesimtrial)
 
 **Free eSIM Trial** helps travelers stay connected worldwide. Get **1GB of free eSIM data** instantly. No credit card, no contracts, no hidden fees.
 
@@ -8,12 +9,12 @@
 
 ## 🚀 How It Works
 
-1. Visit [freeesimtrial.net](https://freeesimtrial.net)
+1. Visit **[freeesimtrial.net](https://freeesimtrial.net)**
 2. Select your destination country
 3. Choose the **1GB Free Trial** package
 4. Scan the QR code and activate
 
-That's it. No app to download, no account to create.
+> That's it. No app to download, no account to create.
 
 ---
 
@@ -26,7 +27,7 @@ Works in **100+ countries** including USA, Japan, Turkey, UK, France, Germany, I
 ## 🔧 Why Choose Free eSIM Trial?
 
 | Feature | Free eSIM Trial |
-|---------|-----------------|
+| :--- | :--- |
 | **Price** | **$0** |
 | **Credit Card Required** | ❌ No |
 | **Activation Time** | 2 minutes |
@@ -34,12 +35,11 @@ Works in **100+ countries** including USA, Japan, Turkey, UK, France, Germany, I
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Support
 
-- 🌐 [Website](https://freeesimtrial.net)
-- 💬 Telegram: [Join us](https://t.me/freeesimtrial)
-
-For support: **support@freeesimtrial.net**
+- 🌐 **Website:** [freeesimtrial.net](https://freeesimtrial.net)
+- 💬 **Telegram:** [Join our Community](https://t.me/freeesimtrial)
+- 📧 **Email:** `support@freeesimtrial.net`
 
 ---
 
