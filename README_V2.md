@@ -1,4 +1,4 @@
-<!-- Özel Başlık ve Rozetler -->
+<!-- Başlık ve Rozetler -->
 <p align="center">
   <img src="https://img.shields.io/badge/Free-eSIM-1e6f5c?style=for-the-badge&logo=esim&logoColor=white" alt="Free eSIM">
   <img src="https://img.shields.io/badge/1GB-Free_Data-2c8c76?style=for-the-badge&logo=data&logoColor=white" alt="1GB Free">
@@ -37,7 +37,7 @@
       <b>3. Scan QR Code</b><br>
       Activate instantly
     </td>
-  </tr>
+  </table>
 </table>
 
 ---
@@ -45,11 +45,11 @@
 ## 🌍 **Supported Countries (100+)**
 
 <details>
-<summary><b>🇺🇸 Click to see all supported countries</b></summary>
+<summary><b>🌐 Click to see all supported countries</b></summary>
 <br>
 
-| 🌎 Region | 🇺🇸 Countries |
-|-----------|----------------|
+| 🌎 Region | Countries |
+|-----------|-----------|
 | **North America** | USA, Canada, Mexico |
 | **Europe** | UK, France, Germany, Italy, Spain, Turkey, Netherlands, Switzerland, Belgium, Austria, Greece, Portugal, Ireland, Norway, Sweden, Finland, Denmark, Poland, Czechia, Hungary, Romania |
 | **Asia** | Japan, South Korea, China, India, Thailand, Vietnam, Malaysia, Singapore, Indonesia, Philippines, UAE, Saudi Arabia, Israel |
@@ -58,7 +58,6 @@
 | **Africa** | South Africa, Egypt, Morocco, Kenya, Nigeria |
 
 > **Plus many more!** Check the website for real-time availability.
-
 </details>
 
 ---
@@ -66,11 +65,10 @@
 ## ⚡ **Why Free eSIM Trial?**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💰 Price- $0 -brightgreen?style=flat-square&logo=currency&logoColor=white" alt="Price">
-  <img src="https://img.shields.io/badge/⏱️ Activation- 2 Minutes-brightgreen?style=flat-square&logo=clock&logoColor=white" alt="Activation">
-  <img src="https://img.shields.io/badge/📆 Validity- 7 Days-brightgreen?style=flat-square&logo=calendar&logoColor=white" alt="Validity">
-  <img src="https://img.shields.io/badge/💳 Credit Card- ❌ No-brightgreen?style=flat-square&logo=credit-card&logoColor=white" alt="No Credit Card">
-  <img src="https://img.shields.io/badge/📱 App- ❌ No Download-brightgreen?style=flat-square&logo=app&logoColor=white" alt="No App">
+  <img src="https://img.shields.io/badge/💰_Price-$0-brightgreen?style=flat-square" alt="Price">
+  <img src="https://img.shields.io/badge/⏱️_Activation-2_Minutes-brightgreen?style=flat-square" alt="Activation">
+  <img src="https://img.shields.io/badge/📆_Validity-7_Days-brightgreen?style=flat-square" alt="Validity">
+  <img src="https://img.shields.io/badge/💳_Credit_Card-❌_No-brightgreen?style=flat-square" alt="No Credit Card">
 </p>
 
 | Feature | Free eSIM Trial |
@@ -86,10 +84,10 @@
 
 ## 📱 **Compatible Devices**
 
-✅ iPhone (XS, XR, 11, 12, 13, 14, 15, 16, 17, 18 and newer)  
-✅ Samsung Galaxy (S20 and newer, Z Fold/Flip)  
-✅ Google Pixel (3 and newer)  
-✅ Xiaomi, Huawei, OnePlus, OPPO, Motorola, Nothing, Honor and more.
+✅ **iPhone** (XS, XR, 11, 12, 13, 14, 15, 16, 17, 18 and newer)  
+✅ **Samsung Galaxy** (S20 and newer, Z Fold/Flip)  
+✅ **Google Pixel** (3 and newer)  
+✅ **Xiaomi, Huawei, OnePlus, OPPO, Motorola, Nothing, Honor** and more.
 
 > 📖 **Full list:** See [eSIM Compatible Phones 2026](https://freeesimtrial.net/blog/esim-compatible-phones-full-list-2026)
 
@@ -101,7 +99,7 @@
   <a href="https://freeesimtrial.net">
     <img src="https://img.shields.io/badge/🌐_Website-freeesimtrial.net-1e6f5c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://t.me/+example">
+  <a href="https://t.me/your-telegram-link">
     <img src="https://img.shields.io/badge/💬_Telegram-Join_Community-2c8c76?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:support@freeesimtrial.net">
