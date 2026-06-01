@@ -97,13 +97,13 @@
 
 <p align="center">
   <a href="https://freeesimtrial.net">
-    <img src="https://img.shields.io/badge/🌐_Website-freeesimtrial.net-1e6f5c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/🌐_Website-freeesimtrial.net-1e6f5c?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://t.me/your-telegram-link">
-    <img src="https://img.shields.io/badge/💬_Telegram-Join_Community-2c8c76?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="https://t.me/freeesimtrial">
+    <img src="https://img.shields.io/badge/💬_Telegram-Join_Community-2c8c76?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="mailto:support@freeesimtrial.net">
-    <img src="https://img.shields.io/badge/📧_Email-support@freeesimtrial.net-1e6f5c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/📧_Email-support@freeesimtrial.net-1e6f5c?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
